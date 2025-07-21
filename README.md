@@ -1,1 +1,1 @@
-# iamge-classsification-using-Pytorch
+# image-classsification-using-Pytorch
