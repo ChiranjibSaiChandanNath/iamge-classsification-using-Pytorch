@@ -1,6 +1,6 @@
 # image-classsification-using-Pytorch
 
-
+Project on image classification using Pytorch , numpy
 
 
 
